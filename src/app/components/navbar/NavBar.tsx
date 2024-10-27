@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
         <div className='flex flex-wrap items-center justify-between px-4 py-2'>
             <Link href="/" className='bg-gradient-to-r from-indigo-600 via-teal-500 to-teal-400 rounded-full p-1'>
                     <Image 
-                        src="/images/logo.jpg"
+                        src="/images/logo.webp"
                         alt="Logo Image"
                         width={40}
                         height={40} 
